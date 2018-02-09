@@ -1,0 +1,29 @@
+<com.codescroll.ut.module.ie.model.ExportSetInformation>
+  <integrationTestFiles/>
+  <unitTestFiles>
+    <file>\UnitTests\ini_parse_file_test0.utest</file>
+    <file>\UnitTests\strncpy0_test0.utest</file>
+    <file>\UnitTests\ini_reader_string_test1.utest</file>
+    <file>\UnitTests\rstrip_test1.utest</file>
+    <file>\UnitTests\ini_parse_string_test0.utest</file>
+    <file>\UnitTests\find_chars_or_comment_test0.utest</file>
+    <file>\UnitTests\ini_parse_test0.utest</file>
+    <file>\UnitTests\ini_parse_stream_test0.utest</file>
+    <file>\UnitTests\lskip_test1.utest</file>
+    <file>\UnitTests\main_test0.utest</file>
+  </unitTestFiles>
+  <stubFiles/>
+  <testDataFiles>
+    <file>\UnitTests\ini_parse_test0.csv</file>
+    <file>\UnitTests\rstrip_test1.csv</file>
+    <file>\UnitTests\strncpy0_test0.csv</file>
+    <file>\UnitTests\ini_parse_string_test0.csv</file>
+    <file>\UnitTests\ini_reader_string_test1.csv</file>
+    <file>\UnitTests\lskip_test1.csv</file>
+    <file>\UnitTests\main_test0.csv</file>
+    <file>\UnitTests\find_chars_or_comment_test0.csv</file>
+    <file>\UnitTests\ini_parse_file_test0.csv</file>
+    <file>\UnitTests\ini_parse_stream_test0.csv</file>
+  </testDataFiles>
+  <stubState/>
+</com.codescroll.ut.module.ie.model.ExportSetInformation>
