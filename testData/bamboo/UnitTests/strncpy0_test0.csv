@@ -3,9 +3,9 @@ test name:strncpy0_test0,""
 ,1,2,3
 <input>,"","",""
 dest," "," "," "
-size,"0","4294967295","1"
+size,"1","4294967295","0"
 src," "," "," "
 <expect>
 returnVar,"",,""
 <output>
-returnVar," ",,""
+returnVar,"",," "
